@@ -69,7 +69,7 @@ Example to create FluentBit setup on Kubernetes Cluster in order to connect Flue
     ${FLUENT_ELASTICSEARCH_PORT}
     ${FLUENT_ELASTICSEARCH_HTTP_User}
     ${FLUENT_ELASTICSEARCH_HTTP_Passwd}
-    with your information from your cluster
+    with your information from your cluster 
 
     For more detailed information on the above operation please follow the link given below :
     "https://medium.com/kubernetes-tutorials/exporting-kubernetes-logs-to-elasticsearch-using-fluent-bit-758e8de606af" 
