@@ -5,7 +5,7 @@ Example to create FluentBit setup on Kubernetes Cluster in order to connect Flue
 1. Clone repo and move inside that directory
 
     ``` bash
-
+    https://github.com/Shatabdi2621/FluentBit---ElasticSearch.git
     ```
 2. Create a namespace (logging here in case)
 
