@@ -65,10 +65,10 @@ Example to create FluentBit setup on Kubernetes Cluster in order to connect Flue
     ```
 
     Replace 
-    ${FLUENT_ELASTICSEARCH_HOST}
-    ${FLUENT_ELASTICSEARCH_PORT}
-    ${FLUENT_ELASTICSEARCH_HTTP_User}
-    ${FLUENT_ELASTICSEARCH_HTTP_Passwd}
+    - ${FLUENT_ELASTICSEARCH_HOST}
+    - ${FLUENT_ELASTICSEARCH_PORT}
+    - ${FLUENT_ELASTICSEARCH_HTTP_User}
+    - ${FLUENT_ELASTICSEARCH_HTTP_Passwd}
     with your information from your cluster 
 
     For more detailed information on the above operation please follow the link given below :
